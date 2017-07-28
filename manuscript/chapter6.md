@@ -367,7 +367,6 @@ We will introduce a new component that sits inside of our `TodosList`, providing
 Lets first start by creating our component directory and files:
 
 {line-numbers=off, title=ui-react}
-
 ```
 src/
   components/
