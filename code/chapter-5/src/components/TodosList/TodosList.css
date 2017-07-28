@@ -1,0 +1,8 @@
+#todos-app .todos-list {
+  list-style: none;
+  padding: 10px 15px;
+}
+
+#todos-app .todos-list .todos-list-item {
+  margin: 10px 0;
+}
