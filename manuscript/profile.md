@@ -7,7 +7,7 @@
 
 ## About the Author
 
-Farhad Ghayour is a technology consultant based out of San Francisco, CA, where he helps transform Fortune 500 companies worldwide. Previously, he was a platform engineer at Famo.us building a 3D WebGL rendering engine and a lead software engineer at various innovative startups around the world. He is passionate about all things philosophy, math, code and design — and every so often you can find him in the high horsepower auto scene.
+Farhad Ghayour is a technology consultant based out of San Francisco, CA, where he helps transform Fortune 500 companies worldwide. Previously, he was a platform engineer at Famo.us building a 3D WebGL rendering engine and a lead software engineer at various innovative startups around the world. He is passionate about all things philosophy, math, code and design --- and every so often you can find him in the high horsepower auto scene.
 
 
 
