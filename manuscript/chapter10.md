@@ -558,8 +558,8 @@ Lastly, we are now able to fulfill the last two criteria that we ignored in prev
 | **Presentable**                 | ✔  |  ✔   |     ✔       |      ✔        |
 |---------------------------------|-----|------|-------------|---------------|
 
-✔ Fulfilled
-- Pseudo-fulfilled
+✔ Fulfilled <br/>
+- Pseudo fulfilled
 
 
 

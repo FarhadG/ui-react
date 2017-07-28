@@ -631,8 +631,8 @@ Since we've only added functionality to our inline styles, you shouldn't be surp
 | **Presentable**                 | ✔  |  ✔   |     ✔       |      ✔        |
 |---------------------------------|-----|------|-------------|---------------|
 
-✔ Fulfilled
-- Pseudo-fulfilled
+✔ Fulfilled <br/>
+- Pseudo fulfilled
 
 
 

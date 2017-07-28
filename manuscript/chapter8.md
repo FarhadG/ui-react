@@ -623,12 +623,8 @@ In this chapter, we converted our entire application to consume inline styles wi
 | **Presentable**                 | NA  |  NA  |     NA      |      NA       |
 |---------------------------------|-----|------|-------------|---------------|
 
-{line-numbers=off}
-```
-
-✔ Fulfilled
-- Pseudo-fulfilled
-```
+✔ Fulfilled <br/>
+- Pseudo fulfilled
 
 
 

@@ -437,8 +437,8 @@ In this chapter, we converted our entire app to use CSS Modules. Lets see how th
 | **Presentable**                 | NA  |  NA  |    NA       |
 |---------------------------------|-----|------|-------------|
 
-✔ Fulfilled
-- Pseudo-fulfilled
+✔ Fulfilled <br/>
+- Pseudo fulfilled
 
 
 

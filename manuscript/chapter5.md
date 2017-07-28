@@ -921,8 +921,8 @@ Overall, they provide a solid foundation to tackle some of our U&I criteria. Let
 | **Presentable**                 | NA  |
 |---------------------------------|-----|
 
-✔ Fulfilled
-- Pseudo-fulfilled
+✔ Fulfilled <br/>
+- Pseudo fulfilled
 
 
 
