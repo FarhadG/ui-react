@@ -631,11 +631,8 @@ Since we've only added functionality to our inline styles, you shouldn't be surp
 | **Presentable**                 | ✔  |  ✔   |     ✔       |      ✔        |
 |---------------------------------|-----|------|-------------|---------------|
 
-{line-numbers=off}
-```html
 ✔ Fulfilled
 - Pseudo-fulfilled
-```
 
 
 

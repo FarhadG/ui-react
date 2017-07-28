@@ -921,11 +921,8 @@ Overall, they provide a solid foundation to tackle some of our U&I criteria. Let
 | **Presentable**                 | NA  |
 |---------------------------------|-----|
 
-{line-numbers=off}
-```html
 ✔ Fulfilled
 - Pseudo-fulfilled
-```
 
 
 

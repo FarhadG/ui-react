@@ -558,11 +558,8 @@ Lastly, we are now able to fulfill the last two criteria that we ignored in prev
 | **Presentable**                 | ✔  |  ✔   |     ✔       |      ✔        |
 |---------------------------------|-----|------|-------------|---------------|
 
-{line-numbers=off}
-```html
 ✔ Fulfilled
 - Pseudo-fulfilled
-```
 
 
 
