@@ -519,9 +519,9 @@ Where did we end up with our U&I checklist?
 |---------------------------------|-----|------|
 
 {line-numbers=off}
-```
+```html
 ✔ Fulfilled
-- Pseudo-fulfilled
+- Pseudo fulfilled
 ```
 
 

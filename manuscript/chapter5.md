@@ -922,7 +922,7 @@ Overall, they provide a solid foundation to tackle some of our U&I criteria. Let
 |---------------------------------|-----|
 
 {line-numbers=off}
-```
+```html
 ✔ Fulfilled
 - Pseudo-fulfilled
 ```

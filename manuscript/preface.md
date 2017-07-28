@@ -123,7 +123,7 @@ function greet(name) {
 }
 ```
 
-When blocks of code are redundant from previous examples, you will see an ellipsis *(…)* signifying that they have been omitted to be able to draw your attention to the appropriate blocks of code:
+When blocks of code are redundant from previous examples, you will see an ellipsis (…) signifying that they have been omitted to be able to draw your attention to the appropriate blocks of code:
 
 ```js
 function greet(name) {

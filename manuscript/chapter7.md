@@ -438,7 +438,7 @@ In this chapter, we converted our entire app to use CSS Modules. Lets see how th
 |---------------------------------|-----|------|-------------|
 
 {line-numbers=off}
-```
+```html
 ✔ Fulfilled
 - Pseudo-fulfilled
 ```

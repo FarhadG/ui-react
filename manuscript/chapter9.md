@@ -632,7 +632,7 @@ Since we've only added functionality to our inline styles, you shouldn't be surp
 |---------------------------------|-----|------|-------------|---------------|
 
 {line-numbers=off}
-```
+```html
 ✔ Fulfilled
 - Pseudo-fulfilled
 ```
