@@ -517,11 +517,8 @@ Where did we end up with our U&I checklist?
 | **Presentable**                 | NA  |  NA  |
 |---------------------------------|-----|------|
 
-{line-numbers=off}
-```html
-✔ Fulfilled
-- Pseudo fulfilled
-```
+✔ `Fulfilled`
+- `Pseudo fulfilled`
 
 
 

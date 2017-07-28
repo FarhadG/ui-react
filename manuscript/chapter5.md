@@ -921,8 +921,8 @@ Overall, they provide a solid foundation to tackle some of our U&I criteria. Let
 | **Presentable**                 | NA  |
 |---------------------------------|-----|
 
-Fulfilled ✔
-Pseudo fulfilled -
+✔ `Fulfilled`
+- `Pseudo fulfilled`
 
 
 Some of them are `pseudo` completed, signifying that they don't completely fulfill the criteria but are *close enough* given clear guidelines and best practices. Additionally, we won't cover **Documentable** and **Presentable** until later chapters, so we'll ignore them for the time being.

@@ -623,8 +623,8 @@ In this chapter, we converted our entire application to consume inline styles wi
 | **Presentable**                 | NA  |  NA  |     NA      |      NA       |
 |---------------------------------|-----|------|-------------|---------------|
 
-Fulfilled ✔
-Pseudo fulfilled -
+✔ `Fulfilled`
+- `Pseudo fulfilled`
 
 
 Whoora! We have finally fulfilled all of our U&I specs outlined in [Chapter 2](#Chapter-2), excluding a few that we intentionally are leaving until later chapters. With inline styles, we no longer have to worry about name clashes and dependency management. We continue to provide an intuitive API for custom styles and are able to share code between our styles and templates.
