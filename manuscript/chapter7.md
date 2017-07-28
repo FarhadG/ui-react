@@ -437,9 +437,8 @@ In this chapter, we converted our entire app to use CSS Modules. Lets see how th
 | **Presentable**                 | NA  |  NA  |    NA       |
 |---------------------------------|-----|------|-------------|
 
-✔ Fulfilled <br/>
-- Pseudo fulfilled
-
+Fulfilled ✔
+Pseudo fulfilled -
 
 
 That is a major improvement! We not only were able to refactor our entire application with minimal amount of changes, but we were also able to fulfill many of our U&I criteria. We are now able to build predicable components, minify our CSS classes and remove any styles that are not referenced in our application. Amazing!

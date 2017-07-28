@@ -558,9 +558,8 @@ Lastly, we are now able to fulfill the last two criteria that we ignored in prev
 | **Presentable**                 | ✔  |  ✔   |     ✔       |      ✔        |
 |---------------------------------|-----|------|-------------|---------------|
 
-✔ Fulfilled <br/>
-- Pseudo fulfilled
-
+Fulfilled ✔
+Pseudo fulfilled -
 
 
 Before moving on, I recommend creating other components using Storybook and experiment with other add-ons.

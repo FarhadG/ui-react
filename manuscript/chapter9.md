@@ -631,9 +631,8 @@ Since we've only added functionality to our inline styles, you shouldn't be surp
 | **Presentable**                 | ✔  |  ✔   |     ✔       |      ✔        |
 |---------------------------------|-----|------|-------------|---------------|
 
-✔ Fulfilled <br/>
-- Pseudo fulfilled
-
+Fulfilled ✔
+Pseudo fulfilled -
 
 
 Before you continue to next chapters, experiment with `theme-wrap` and start thinking about different ways of leverage this sort of functionality. One thing to note it that this is all possible, due to power and flexibility of inline styles.
