@@ -1,0 +1,8 @@
+#todos-app .app {
+
+}
+
+#todos-app .app .todos-list {
+  margin: 50px auto;
+  max-width: 800px;
+}

@@ -1,0 +1,7 @@
+@import '../../styles/theme';
+
+##{$APP} .todos-list-info {
+  color: $dark-gray;
+  font-size: 14px;
+  text-align: right;
+}

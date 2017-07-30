@@ -1,0 +1,10 @@
+@import '../../styles/theme';
+
+##{$APP} .todos-list {
+  list-style: none;
+  padding: 10px 15px;
+
+  &-item {
+    margin: 10px 0;
+  }
+}
