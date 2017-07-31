@@ -105,7 +105,7 @@ I> All software mentioned in this book are free of charge and can be downloaded 
 
 ## Audience
 
-This book is ideal for developers who are familiar with React and are looking for a comprehensive guide for building modular, extendable and scalable UI interfaces. Even though this book is intended for intermediate to advanced React developers, anyone new to React can easily follow along given the progressive format of this book where each chapter builds on the chapters before. 
+This book is ideal for developers who are familiar with React and are looking for a comprehensive guide for building modular, extendable and scalable user interfaces. Even though this book is intended for intermediate to advanced React developers, anyone new to React can easily follow along given the progressive format of this book where each chapter builds on the chapters before.
 
 I> The ideas covered in this book are not tied to React and are transferable to other frontend technologies.
 

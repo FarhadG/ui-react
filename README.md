@@ -57,7 +57,7 @@ Guides us on how we can build, document and showcase our components in an isolat
 Compares the various methodologies covered throughout this book, with a glimpse into the future of UI development.
 
 ## Audience
-This book is ideal for developers who are familiar with React and are looking for a comprehensive guide for building modular, extendable and scalable UI interfaces. Even though this book is intended for intermediate to advanced React developers, anyone new to React can easily follow along given the progressive format of this book where each chapter builds on the chapters before. 
+This book is ideal for developers who are familiar with React and are looking for a comprehensive guide for building modular, extendable and scalable user interfaces. Even though this book is intended for intermediate to advanced React developers, anyone new to React can easily follow along given the progressive format of this book where each chapter builds on the chapters before.
 
 ## Publishing
 These books are being released here as drafts, free to read, but are also being edited, produced and published through [Leanpub](https://leanpub.com/ui-react).
