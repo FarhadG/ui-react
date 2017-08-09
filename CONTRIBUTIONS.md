@@ -6,5 +6,5 @@ If you have any improvements, please fork this repository, make the necessary ch
 If you have any questions, feel free to contact me. Thank you!
 
 ## Contributors
-[@farhadg](https://github.com/FarhadG)
-[@jenscales](https://github.com/jenscales)
+- [@farhadg](https://github.com/FarhadG)
+- [@jenscales](https://github.com/jenscales)
