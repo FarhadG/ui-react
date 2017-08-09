@@ -473,7 +473,7 @@ It's a subtle difference, but this syntax provided by Babel auto binds our metho
 
           <TodosListItem key={todo.id}
                          todo={todo}
-                         toggleTodo={this.toggleTodo} />
+                         handleClick={this.toggleTodo} />
                          
 ...
 ```
@@ -482,7 +482,7 @@ I've found this syntax elegant and preferable to the `::` syntax or binding with
 
 Another pattern I've started using are [higher-order functions](http://eloquentjavascript.net/05_higher_order.html) when additional arguments are needed *(such as the index of an item in a loop)*. For example, we can update our method to the following:
 
-{title=src/components/TodosListItem/TodosListItem.js, line-numbers=off, lang=text}
+{title=src/components/App/App.js, line-numbers=off, lang=text}
 ```
 ...
 
@@ -505,14 +505,14 @@ The first time our new `toggleTodo` gets called, we return a new function waitin
 
 We need to update how we call our new method inside of `TodosListItem`:
 
-{title=src/components/App/App.js, line-numbers=off, lang=text}
+ {title=src/components/TodosListItem/TodosListItem.js, line-numbers=off, lang=text}
 ```
 ...
 
 # leanpub-start-delete
 export default ({ todo, handleClick }) => (
   <li className={todo.completed ? 'completed' : ''}
-      onClick={(e) => handleClick(todo.id, e)}>
+      onClick={(e) => handleClick(e, todo.id)}>
     {todo.description}
   </li>
 );
