@@ -11,7 +11,7 @@ Copyright © 2017 [Farhad Ghayour](https://twitter.com/farhadg_com)
 [Leanpub](https://leanpub.com/ui-react)
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTIONS.md)
 
 Please feel free to contribute to the quality of this content by submitting PRs for improvements to code snippets, explanations, etc.
 
@@ -63,4 +63,4 @@ This book is ideal for developers who are familiar with React and are looking fo
 These books are being released here as drafts, free to read, but are also being edited, produced and published through [Leanpub](https://leanpub.com/ui-react).
 
 ## Contributions
-Please review the [guidelines](CONTRIBUTING.md). Any contributions you make to this effort **are greatly appreciated**.
+Please review the [guidelines](CONTRIBUTIONS.md). Any contributions you make to this effort **are greatly appreciated**.
