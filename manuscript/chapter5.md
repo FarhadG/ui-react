@@ -853,7 +853,7 @@ Let's start from the children first:
 
 We remove the `margin` from `TodosListItem.css` and include it in `TodosList`:
 
-{title=src/components/TodosListItem/TodosListItem.css, lang=text}
+{title=src/components/TodosList/TodosList.css, lang=text}
 ```
 #todos-app .todos-list {
   list-style: none;
@@ -871,7 +871,7 @@ We remove the `margin` from `TodosListItem.css` and include it in `TodosList`:
 # leanpub-end-insert
 ```
 
-We also remove the `max-width` and `margin` from `TodosListItem` and include it in the parent component:
+We also remove the `max-width` and `margin` from `TodosList` and include it in the parent component:
 
 {title=src/components/App/App.css, lang=text}
 ```
