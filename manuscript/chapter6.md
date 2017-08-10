@@ -480,7 +480,7 @@ class App extends Component {
 export default App;
 ```
 
-We import our `TodosListInfo` component and render it inside of `TodosListItem` with the appropriate props. By now, the advantages of decoupling components and ensuring a clear separation of roles should be clear.
+We import our `TodosListInfo` component and render it inside of `TodosList` with the appropriate props. By now, the advantages of decoupling components and ensuring a clear separation of roles should be clear.
 
 Open your browser and you should see our new component rendering real-time todo updates.
 
