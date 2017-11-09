@@ -8,3 +8,6 @@ If you have any questions, feel free to contact me. Thank you!
 ## Contributors
 - [@farhadg](https://github.com/FarhadG)
 - [@jenscales](https://github.com/jenscales)
+- [@alexanderGugel](https://github.com/alexanderGugel)
+- [@innovmon](https://github.com/innovmon)
+- @averroes
